@@ -1,7 +1,5 @@
 
 .DS_Store
-*.py
-*.proto
 /anki
 requirements.txt
 *.apkg
